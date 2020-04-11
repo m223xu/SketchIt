@@ -1,1 +1,2 @@
 # SketchIt
+Drawing application
